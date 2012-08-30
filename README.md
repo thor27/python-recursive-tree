@@ -7,7 +7,7 @@ About
 A simple acumulative recursive tree-like class.
 With this tree-like class, all child values will be automatically added to the parent attribute with the same name
 
-You can also add meta information wich is exclusive for the specific node, without changing anything on the parent node
+You can also add meta information which is exclusive for the specific node, without changing anything on the parent node
 And add hooks on the nodes, so you can execute special codes each time the hooked node is updated.
 
 Example Usage
